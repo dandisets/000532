@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000532
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -9,8 +10,8 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Lecoq, Jerome (2023) Allen Institute Openscope - Multiplex (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000532/draft
+citation: Lecoq, Jerome (2023) Allen Institute Openscope - Tmp 2 (Version draft) [Data
+  set]. DANDI archive. https://dandiarchive.org/dandiset/000532/draft
 contributor:
 - affiliation: []
   email: jeromel@alleninstitute.org
@@ -21,15 +22,21 @@ contributor:
   schemaKey: Person
 dateCreated: '2023-05-09T22:34:01.037304+00:00'
 description: TBA
+ethicsApproval: []
 id: DANDI:000532/draft
 identifier: DANDI:000532
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000532/versions/draft/assets/
-name: Allen Institute Openscope - Multiplex
+name: Allen Institute Openscope - Tmp 2
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000532/draft
 version: draft
+wasGeneratedBy: []
